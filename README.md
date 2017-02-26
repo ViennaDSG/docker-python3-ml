@@ -2,4 +2,4 @@
 
 # Docker image for machine learning with [Python](http://www.python.org)
 
-This is the github repository for docker image [vdsg/python3](https://hub.docker.com/r/vdsg/python3-ml/).
+This is the github repository for docker image [vdsg/python3-ml](https://hub.docker.com/r/vdsg/python3-ml/).
