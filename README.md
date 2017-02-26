@@ -20,3 +20,5 @@ The image is based on the official [Python 3.5 Docker image](https://hub.docker.
 
 Docker images are automatically built on [Docker Hub](https://hub.docker.com).
 See https://hub.docker.com/r/vdsg/python3-ml/ for details.
+
+[![](http://viennadatasciencegroup.at/vdsg_transparent/)](http://www.viennadatasciencegroup.at)
