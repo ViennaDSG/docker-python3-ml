@@ -14,5 +14,10 @@ The image is based on the official [Python 3.5 Docker image](https://hub.docker.
 * nltk, and
 * tensorflow.
 
+## Docker image
+---------------
+[![](https://images.microbadger.com/badges/image/vdsg/python3-ml.svg)](https://microbadger.com/images/vdsg/python3-ml "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/vdsg/python3-ml.svg)](https://microbadger.com/images/vdsg/python3-ml "Get your own version badge on microbadger.com")
+
 Docker images are automatically built on [Docker Hub](https://hub.docker.com).
-See https://hub.docker.com/r/vdsg/python3-ml/ for further details.
+See https://hub.docker.com/r/vdsg/python3-ml/ for details.
