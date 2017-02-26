@@ -15,7 +15,6 @@ The image is based on the official [Python 3.5 Docker image](https://hub.docker.
 * tensorflow.
 
 ## Docker image
----------------
 [![](https://images.microbadger.com/badges/image/vdsg/python3-ml.svg)](https://microbadger.com/images/vdsg/python3-ml "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/vdsg/python3-ml.svg)](https://microbadger.com/images/vdsg/python3-ml "Get your own version badge on microbadger.com")
 
