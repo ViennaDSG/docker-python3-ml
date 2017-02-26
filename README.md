@@ -1,2 +1,15 @@
 # docker-python3-ml
-Docker image for machine learning based on python 3
+
+Docker image for machine learning with [Python](http://www.python.org).
+Although primarily intended to serve as the base image for VDSG's Docker image
+[docker-python3-ml-interact](https://github.com/ViennaDSG/docker-python3-ml-interact)
+for interactive machine learning, it may also serve for other purposes - especially for
+dockerizing applications developed with [docker-python3-ml-interact](https://github.com/ViennaDSG/docker-python3-ml-interact).
+
+The image is based on the official [Python 3.5 Docker image](https://hub.docker.com/_/python/) and provides
+* numpy,
+* pandas,
+* scipy,
+* scikit-learn,
+* nltk, and
+* tensorflow.
